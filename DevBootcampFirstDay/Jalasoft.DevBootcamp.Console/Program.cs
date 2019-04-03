@@ -81,8 +81,9 @@ namespace Jalasoft.DevBootcamp.Console
             // Mauricio rules as usually
             User myUser = new User();
             myUser.FirstName = "Mauricio";
-            myUser.LastName = "Gates";
+            myUser.LastName = "Sure?";
             myUser.UserName = "mgates";
+            myUser.LastName = "Iriarte";
 
             mySoftwareOS.Users = new List<User>();
             mySoftwareOS.Users.Add(myUser);
