@@ -79,10 +79,10 @@ namespace Jalasoft.DevBootcamp.Console
             mySoftwareApp.Release = DateTime.Now.AddYears(-8);
             myPc.SoftwarePc.Add(mySoftwareApp);
 
-            // Mauricio rules as usually
+            // Mauricio modified... again :/ and again
             User myUser = new User();
             myUser.FirstName = "Mauricio";
-            myUser.LastName = "Sure?";
+            myUser.LastName = "Gates";
             myUser.UserName = "mgates";
             myUser.LastName = "Iriarte";
 
