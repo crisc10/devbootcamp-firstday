@@ -12,5 +12,9 @@ namespace Jalasoft.DevBootcamp.Pc.Hardware
     /// </summary>
     public class Case : Hardware
     {
+        /// <summary>
+        /// Gets or sets the motherboard
+        /// </summary>
+        public Motherboard.Motherboard Motherboard { get; set; }
     }
 }
