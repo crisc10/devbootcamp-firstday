@@ -16,6 +16,5 @@ namespace Jalasoft.DevBootcamp.Pc.Hardware
         /// Gets or sets the resolution
         /// </summary>
         public int Resolution { get; set; }
-        public int Resolucion { get; set; }
     }
 }
