@@ -110,7 +110,7 @@ namespace Jalasoft.DevBootcamp.Pc.Software
         /// <returns>The amount of network used</returns>
         private decimal NetworkUse()
         {
-            return 0;
+            return 456;
         }
     }
 }
