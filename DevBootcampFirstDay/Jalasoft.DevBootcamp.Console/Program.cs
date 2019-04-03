@@ -17,7 +17,7 @@ namespace Jalasoft.DevBootcamp.Console
     /// <summary>
     /// Main class
     /// </summary>
-    /// MOdificado por roger
+    /// Modificado por roger
     public class Program
     {
         /// <summary>
